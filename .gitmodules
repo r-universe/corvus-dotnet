@@ -1,5 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/corvus-dotnet/corvus-dotnet.r-universe.dev
 	branch = HEAD
+[submodule "corvusjsonschema"]
+	path = corvusjsonschema
+	url = https://github.com/corvus-dotnet/Corvus.JsonSchema
+	branch = r-release
+	subdir = src-r/corvusjsonschema
