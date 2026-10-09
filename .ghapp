@@ -1,0 +1,10 @@
+{
+  "id": 169630674,
+  "created_at": "2026-10-09T14:25:01.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["corvus-dotnet.r-universe.dev"]
+}
