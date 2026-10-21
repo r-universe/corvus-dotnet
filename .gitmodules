@@ -7,3 +7,7 @@
 	url = https://github.com/corvus-dotnet/Corvus.JsonSchema
 	branch = r-release
 	subdir = src-r/corvusjsonschema
+[submodule "corvusregexecma262"]
+	path = corvusregexecma262
+	url = https://github.com/corvus-dotnet/corvus-regex-ecma262-r
+	branch = *release
