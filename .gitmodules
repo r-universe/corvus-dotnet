@@ -10,4 +10,4 @@
 [submodule "corvusregexecma262"]
 	path = corvusregexecma262
 	url = https://github.com/corvus-dotnet/corvus-regex-ecma262-r
-	branch = *release
+	branch = v0.1.1
